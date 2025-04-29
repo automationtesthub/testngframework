@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b27321f-92b0-49ef-b5db-123ab1cdc0e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/JunitExamples/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitExamples/Recorder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "akshaypsep"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/automationtesthub/testngframework.git",
+    "accountId": "b7b288cb-ef90-4f1b-8074-d4cd2cda5346"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vA0PCwl6GepQPvTSNwHaCeU6l7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AnnotationsExample.executor": "Run",
+    "JUnit.AssertionExamples.validations.executor": "Run",
+    "JUnit.Recorder.executor": "Run",
+    "JUnit.Recorder.testLeadE2E.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AnnotationsExample (1).executor": "Run",
+    "TestNG.AnnotationsExample.executor": "Run",
+    "TestNG.AssertionExamples.validations.executor": "Run",
+    "TestNG.D:/Selenium/batch/SeleniumJan25_Weekdays/Frameworks/Testng.xml.executor": "Run",
+    "TestNG.DataDriven.login.executor": "Run",
+    "TestNG.Recorder.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Selenium/batch/SeleniumJan25_Weekdays/Frameworks",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestNGExamples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Selenium/batch/SeleniumJan25_Weekdays/Frameworks/Testng.xml">
+    <configuration name="AnnotationsExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNGExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNGExamples" />
+      <option name="MAIN_CLASS_NAME" value="TestNGExamples.AnnotationsExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertionExamples.validations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNGExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNGExamples" />
+      <option name="MAIN_CLASS_NAME" value="TestNGExamples.AssertionExamples" />
+      <option name="METHOD_NAME" value="validations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Selenium/batch/SeleniumJan25_Weekdays/Frameworks/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frameworks" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDriven.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNGExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNGExamples" />
+      <option name="MAIN_CLASS_NAME" value="TestNGExamples.DataDriven" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recorder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Frameworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNGExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNGExamples" />
+      <option name="MAIN_CLASS_NAME" value="TestNGExamples.Recorder" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Selenium/batch/SeleniumJan25_Weekdays/Frameworks/Testng.xml" />
+        <item itemvalue="TestNG.DataDriven.login" />
+        <item itemvalue="TestNG.AnnotationsExample" />
+        <item itemvalue="TestNG.Recorder" />
+        <item itemvalue="TestNG.AssertionExamples.validations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b27321f-92b0-49ef-b5db-123ab1cdc0e3" name="Changes" comment="" />
+      <created>1743572548205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743572548205</updated>
+    </task>
+    <servers />
+  </component>
+</project>

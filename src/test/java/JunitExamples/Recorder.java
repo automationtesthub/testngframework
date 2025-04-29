@@ -13,7 +13,7 @@ import java.time.Duration;
 
 public class Recorder {
     private WebDriver driver;
-    private String baseUrl;
+    
     private boolean acceptNextAlert = true;
     private StringBuffer verificationErrors = new StringBuffer();
     JavascriptExecutor js;
