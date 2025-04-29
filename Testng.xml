@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Regression" verbose="1" parallel="tests">
+    <test name="TestOnChrome">
+      <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="TestNGExamples.Recorder"/>
+        </classes>
+    </test>
+
+    <test name="TestOnfirefox">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="TestNGExamples.Recorder"/>
+        </classes>
+    </test>
+
+    <test name="TestOnEdge">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="TestNGExamples.Recorder"/>
+        </classes>
+    </test>
+
+    <test name="TestOnHeadless">
+        <parameter name="browser" value=""></parameter>
+        <classes>
+            <class name="TestNGExamples.Recorder"/>
+        </classes>
+    </test>
+
+
+</suite>
