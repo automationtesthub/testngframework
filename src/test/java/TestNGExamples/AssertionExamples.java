@@ -15,6 +15,7 @@ public class AssertionExamples {
         String act = "vtiger1";
         sa.assertEquals(exp,act);
 
+        System.out.println("hello");
         String exp1 = "vtiger";
         String act1 = "vtiger2";
         sa.assertEquals(exp1,act1);
